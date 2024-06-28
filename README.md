@@ -1,5 +1,4 @@
 # Planning and control for car-like vehicles
-
 ## Overview
 
 Pure pursuit controller and Reeds-Shepp sampling based planner for navigation in SE(2) space. This package has been
